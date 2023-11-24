@@ -36,7 +36,7 @@ const MarketingPage = () => {
         className="mt-6"
         size="lg"
         asChild>
-        <Link href="/acceder">Get Taskify for Free</Link>
+        <Link href="/sign-in">Get Taskify for Free</Link>
       </Button>
     </div>
   );
